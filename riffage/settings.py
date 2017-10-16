@@ -25,7 +25,7 @@ SECRET_KEY = 'swf+-e&3-y=r(8%@z^+*r4kfsjojfyl@@%$0me)$w%lm(t0m##'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pfraser.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'pefbass.pythonanywhere.com']
 
 
 # Application definition
